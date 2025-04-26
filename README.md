@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **any Payment gateway integration or PHP based work.**
 
-- 📝 I regularly write work on [Upwork](Upwork)
+- 📝 I regularly work on Upwork
 
 - 📫 How to reach me **fc7antu@gmail.com**
 
